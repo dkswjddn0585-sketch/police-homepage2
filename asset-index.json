@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/icons/police-emblem.svg",
+    "bytes": 635
+  },
+  {
+    "path": "assets/images/banner-1.svg",
+    "bytes": 1386
+  },
+  {
+    "path": "assets/images/banner-2.svg",
+    "bytes": 1373
+  },
+  {
+    "path": "assets/images/banner-3.svg",
+    "bytes": 1368
+  },
+  {
+    "path": "assets/images/history-card.svg",
+    "bytes": 573
+  },
+  {
+    "path": "assets/images/local-policing.svg",
+    "bytes": 670
+  },
+  {
+    "path": "assets/images/memorial-card.svg",
+    "bytes": 509
+  }
+]
